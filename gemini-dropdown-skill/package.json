@@ -1,0 +1,21 @@
+{
+  "name": "gemini-dropdown-skill",
+  "version": "1.1.1",
+  "description": "Skill for Gemini model dropdown health status and auto-selection",
+  "main": "SKILL.md",
+  "bin": {
+    "gemini-dropdown-skill": "index.js"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "index.js"
+  ],
+  "keywords": [
+    "antigravity-skill",
+    "gemini",
+    "ai-report"
+  ],
+  "author": "arimang",
+  "license": "MIT"
+}
